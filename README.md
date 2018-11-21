@@ -8,6 +8,8 @@ It throws the following error
 
 This happens both in Ubuntu 18.04 and Windows 10.
 
+Related to issues [#6662](https://github.com/facebook/jest/issues/6662) and  [#6913](https://github.com/facebook/jest/issues/6913). I first tried all suggestions in these issue before switching to yarn in despair.
+
 ## To Reproduce
 
 Steps to reproduce the behaviour:
